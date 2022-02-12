@@ -11,8 +11,8 @@
 	var capturing = false;
 
 	camera.init({
-		width: 180,
-		height: 140,
+		width: 160,
+		height: 120,
 		fps: 30,
 		mirror: true,
 
